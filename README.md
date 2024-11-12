@@ -7,7 +7,7 @@ Bienvenue sur mon dépôt GitHub Pages pour mon site personnel.
 - **[Resume](mon-cv.pdf)** : Mon CV à télécharger.
 - **Portfolio** :
   - en cours
-- **[Lien vers LinkedIn](linkedin.com/in/flavie-hebral-37188721b)** : Connectez-vous avec moi.
+- **[Lien vers LinkedIn]([linkedin.com/in/flavie-hebral-37188721b](https://www.linkedin.com/in/flavie-hebral-37188721b/))** : Connectez-vous avec moi.
 
 ## Instructions
 
